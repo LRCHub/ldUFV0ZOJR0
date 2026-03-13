@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "やさしくなりたい",
+  "base_artist": "Kazuyoshi Saito",
+  "createdAt": "2026-03-13T06:21:25.109662Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "やさしくなりたい",
+      "artist": "Kazuyoshi Saito",
+      "has_synced": true,
+      "path": "select/01_やさしくなりたい_Kazuyoshi_Saito.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "やさしくなりたい - Yasashiku Naritai",
+      "artist": "Kazuyoshi Saito",
+      "has_synced": true,
+      "path": "select/02_やさしくなりたい_-_Yasashiku_Naritai_Kazuyoshi_Saito.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "やさしくなりたい",
+      "artist": "斉藤和義",
+      "has_synced": true,
+      "path": "select/03_やさしくなりたい_斉藤和義.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "やさしくなりたい",
+      "artist": "Kazuyoshi Saito",
+      "has_synced": true,
+      "path": "select/04_やさしくなりたい_Kazuyoshi_Saito.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "やさしくなりたい",
+      "artist": "斉藤和義",
+      "has_synced": true,
+      "path": "select/05_やさしくなりたい_斉藤和義.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "やさしくなりたい",
+      "artist": "斉藤和义",
+      "has_synced": true,
+      "path": "select/06_やさしくなりたい_斉藤和义.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "やさしくなりたい (English Ver.)",
+      "artist": "GILLE",
+      "has_synced": true,
+      "path": "select/07_やさしくなりたい_(English_Ver.)_GILLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "やさしくなりたい",
+      "artist": "GILLE",
+      "has_synced": true,
+      "path": "select/08_やさしくなりたい_GILLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やさしくなりたい",
+      "artist": "斉藤 和義",
+      "has_synced": false,
+      "path": "select/pl_01_やさしくなりたい_斉藤_和義.txt"
+    }
+  ]
+}
